@@ -10,4 +10,4 @@ and ImageNet transfer learning.
 **Best Result:** 78.57% Top-1 Validation Accuracy  
 **Best Model:** ImageNet-Pretrained ResNet-50
 
-[📄 Read the Full Research Report](reportfinal5.pdf)
+[ Read the Full Research Report]:(reportfinal5.pdf)
